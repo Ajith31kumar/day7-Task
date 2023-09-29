@@ -1,3 +1,5 @@
+D) Print the total population of countries using reduce function
+
 var request = new XMLHttpRequest();
 request.open("GET", "https://restcountries.com/v3.1/all");
 request.send();
